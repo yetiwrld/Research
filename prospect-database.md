@@ -817,9 +817,9 @@ Contact details below are business contact details published for business purpos
 **OUTREACH ANGLE:** "4.8 stars and a MoneyHub best-daycare listing — but your site is from 2014 with no online booking. Daycare enrolment with vaccination uploads would remove the phone tag for busy airport commuters."
 **SOURCES:** Official site; Facebook; MoneyHub; Fetchr. Confidence: VERIFIED.
 
-## B15. West End Groom — Auckland (Glenfield), NZ — see note
+## B15. West End Groom — DEMOTED to C (wave 4)
 
-Classified **B (lower)** — Setmore-only like Paw Hub but smaller proof base (79 reviews, 5.0). Full record abbreviated: 19 Glenmall Place, Auckland 0602; groomers praised for anxious/elderly dogs; opportunity mirrors Paw Hub (services/pricing, gallery, booking integration). Confidence: PARTIALLY VERIFIED (phone/social unconfirmed; verify scale before outreach).
+Direct site audit (wave 4) found a functional Squarespace website — pricing (XS $85–Large $110+), gallery, testimonials — with Setmore booking, and a young business (~1 year). Near-term opportunity too limited for B. See C-section entry. (Number retained as a placeholder so B16+ references stay stable.)
 
 ## B16. Nail Care — Plano, TX, USA (added wave 3)
 
@@ -866,14 +866,16 @@ Classified **B (lower)** — Setmore-only like Paw Hub but smaller proof base (7
 ## C1. Manzils — Birmingham (Digbeth), UK
 Family-run Indian/Balti since 1966; basic ordering site (manzilsbirmingham.co.uk); phone 0121 643 9589. **Watchlist because:** recent reviews mixed — Apr–May 2026 positives vs "empty on Friday night" + food-quality complaints. Re-verify stability before outreach.
 
-## C2. Goat in the Tree — Glasgow (West End), UK
-Family-run Moroccan BYOB; tiny venue (12–14 seats); TripAdvisor 4.7 (39); basic site (order via Fusion Kitchen). **Watchlist because:** small review base + tiny venue limits upside; demand Moderate.
+## C2. Goat in the Tree — PROMOTED to B (wave 4)
+
+See **B18**. Direct site audit + Google 4.8/~340 verification justified promotion.
 
 ## C3. Big Moustache Barbershop — Halifax, NS (7 locations), Canada
 Independent 7-location group, 25+ barbers; Fresha Fairview 5.0/1,488 votes; functional multi-location booking site. **Watchlist because:** decent existing site + larger scale = weaker direct-prospect fit.
 
-## C4. Shawarma's King — Ottawa, ON, Canada
-Family-owned shawarma, 395 Bank St; no website found; DoorDash presence. **Watchlist because:** demand evidence thin (TA 3.5/57; Wheree 4.1/10). Re-verify Google reviews before outreach.
+## C4. Shawarma's King — PROMOTED to A (wave 4)
+
+See **A8**. Google-review verification (~1,687 ratings at 4.1, recent reviews, late-night institution) justified promotion.
 
 ## C5. Nubreed (Brandon) — PROMOTED to B (wave 4)
 
@@ -893,3 +895,6 @@ Family-run auto repair (owners Cliff and Faith named by customers); 3451 Pembina
 
 ## C9. Ritz Caribbean Foods (RCF) — Toronto, ON, Canada (demoted wave 2)
 Square/Weebly ordering site with gift cards + merch. **Watchlist because:** Google rating soft (~3.5); old Yonge St TripAdvisor listing marked CLOSED (current status needs verification); possible multi-unit structure ("other ritz places"). Do not pitch until status/demand re-verified.
+
+## C11. West End Groom — Auckland (Glenfield), NZ (demoted wave 4)
+Dog grooming salon, 19 Glenmall Place; live Squarespace site (pricing XS $85–Large $110+, gallery, testimonials; Setmore booking); Setmore 5.0 (79 reviews); young business (~1 year); 022 081 9427; westendgroom@outlook.com; Instagram @westendgroom. **Watchlist because:** site already covers pricing/gallery/testimonials and the business is young — revisit as it matures.

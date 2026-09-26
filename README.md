@@ -25,7 +25,7 @@
 
 ## Country balance (A + B = 26)
 
-USA: 9 · Canada: 6 · UK: 7 · New Zealand: 4 (17 distinct A+B cities)
+USA: 9 · Canada: 6 · UK: 7 · New Zealand: 4 (17 distinct metro areas)
 
 ## Category spread (A + B = 26)
 
