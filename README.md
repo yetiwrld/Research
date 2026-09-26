@@ -12,23 +12,24 @@
 | `prospect-database.md` | Full lead records for A (High Opportunity) and B (Good Opportunity) prospects |
 | `top-prospects.md` | Top prospect report — strongest verified prospects with outreach angles |
 | `research-log.md` | Research batches, self-critique loop, diversification tracking, rejection log |
+| `outreach-drafts.md` | Personalised first-touch outreach drafts for the top prospects |
 
 ## Qualification summary
 
 | Status | Count | Meaning |
 |---|---|---|
-| A — High Opportunity | 6 | Strong activity + clear website gap + strong verification |
-| B — Good Opportunity | 15 | Good business + meaningful opportunity, some evidence weaker |
-| C — Watchlist | 9 | Potential prospect, insufficient evidence or weaker fit |
-| Rejected | 16 | Fails core requirements (reason recorded) |
+| A — High Opportunity | 7 | Strong activity + clear website gap + strong verification |
+| B — Good Opportunity | 17 | Good business + meaningful opportunity, some evidence weaker |
+| C — Watchlist | 10 | Potential prospect, insufficient evidence or weaker fit |
+| Rejected | 18 | Fails core requirements (reason recorded) |
 
-## Country balance (A + B = 21)
+## Country balance (A + B = 24)
 
-USA: 8 · Canada: 4 · UK: 5 · New Zealand: 4 (16 distinct cities)
+USA: 9 · Canada: 5 · UK: 6 · New Zealand: 4 (18 distinct cities)
 
-## Category spread (A + B = 21)
+## Category spread (A + B = 24)
 
-Food & café (13) · Beauty/personal care (3) · Pet services (3) · Automotive (1) · Home services (1)
+Food & café (14) · Beauty/personal care (4) · Pet services (3) · Automotive (2) · Home services (1)
 
 ## Operating principles applied
 

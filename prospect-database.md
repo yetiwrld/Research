@@ -515,6 +515,90 @@ Contact details below are business contact details published for business purpos
 - Information Confidence: VERIFIED
 
 ---
+
+## A7. Osborne Auto Centre — Winnipeg, MB, Canada (added wave 3)
+
+**BUSINESS**
+
+- Business Name: Osborne Auto Centre
+- Business Category: Auto repair / family garage
+- Country: Canada
+- City: Winnipeg, MB
+- Area/Suburb: Osborne Village (747 Osborne St, Winnipeg, MB R3L 2C4)
+- Business Type: Independent garage
+- Independent / Private / Other: Independent ("Winnipeg's OG family garage, Est. 1998")
+- Number of Locations: 1
+- Official Website: osborneautocentre.com — **inaccessible at research time (http and https both failed)**
+- Google Business Profile: Yes
+- Instagram: @osborneautocentre (21 posts)
+- Facebook: Osborne-Auto-Centre-100063850508643 (88% recommend, 13 reviews; "Online booking" noted; seasonal booking posts)
+- TikTok: Not verified
+- Other Relevant Platform: Wheree, autotechiq, Reddit r/Winnipeg
+
+**CUSTOMER DEMAND**
+
+- Google Reviews: 100+ reviews at 4.5+ (Good Standing status via autotechiq)
+- Review Recency: Active — Wheree updated Jul 2026; Reddit recommendations 2024–2025; seasonal booking urgency posts ("book before schedule fills up")
+- Other Review Platforms: Wheree 8.6 (Excellent); Facebook 88% recommend
+- Social Activity: Facebook + Instagram active with booking CTAs
+- Customer Engagement: Strong — day + night crews; same-day service stories; appointment-required demand
+- Ordering/Booking Activity: "Online booking" referenced on Facebook (mechanism unverified — likely Facebook-based); appointment required/recommended
+- Demand Level: Strong
+- Evidence: 100+ Google reviews at 4.5+; Wheree 8.6; repeat Reddit recommendations; booking-urgency posting; two-crew operation since 1998
+
+**WEBSITE AUDIT**
+
+- Website Status: Website inaccessible (domain referenced across directories/socials but does not load)
+- Website URL: https://osborneautocentre.com/ (failed); http://osborneautocentre.com/ (failed)
+- Design Quality: Unable to confirm (no live site reachable)
+- Mobile Experience: Unable to confirm
+- Ordering Experience: N/A
+- Booking Experience: None on web (Facebook "online booking" only)
+- Navigation: N/A
+- Calls to Action: None owned
+- Pricing/Menu Visibility: None (service menu/pricing not published anywhere owned)
+- Contact Experience: Phone +1 204-284-3384; Facebook/Instagram DMs
+- Trust Signals: None owned (100+ Google reviews live only on Google)
+- Overall Website Quality: **D — Very weak**
+- Main Problems: (1) Website down while directories/socials link to it; (2) no service menu, pricing guidance, or hours page; (3) no web booking/appointment-request flow despite appointment-required model; (4) reviewer-noted communication issues (vehicle-readiness updates) could be eased with status/request tooling
+
+**BUSINESS MODEL**
+
+- What They Sell: Auto repair + maintenance (alternators, ball joints, steering, servicing); honest-diagnosis positioning
+- Primary Customer: Osborne Village/South Winnipeg car owners; repeat maintenance clients
+- How Customers Currently Buy: Phone booking; walk-in; Facebook
+- How Customers Currently Book: Phone + Facebook (appointment required/recommended)
+- How Customers Currently Contact: Phone, Facebook, Instagram
+- Current Payment Method: In shop (not verified)
+- Important Business Workflow: Appointment-based bays; day + night crews; vehicle-readiness communication is a known pain point (Wheree summary)
+
+**OPPORTUNITY**
+
+- Recommended Website Type: Service + booking website
+- Potential Features: Services + pricing guidance; appointment-request form; hours/location; review showcase; maintenance reminders; service-area SEO (mechanic Osborne/Winnipeg South)
+- Main Website Opportunity: Restore the dead website so 100+ reviews of trust convert into booked appointments instead of phone tag.
+- Why It Matters: Appointment-required shops monetise every friction removed from scheduling; readiness-status tooling addresses the #1 complaint theme.
+- Potential Customer Journey Improvement: Google → services + reviews → appointment request → reminders (vs. today: Google → dead link → phone call).
+- Suggested Outreach Angle: "Winnipeg's OG family garage with 100+ Google reviews — but osborneautocentre.com doesn't load, so every directory link to your site is a dead end. A garage site with appointment requests would fill your bays while you turn wrenches."
+
+**CONTACT**
+
+- Business Phone: +1 204-284-3384
+- Business Email: Not verified
+- Contact Page: None (Facebook page acts as contact hub)
+- Public Owner/Founder: Not verified
+- Social Contact: Facebook; Instagram @osborneautocentre
+
+**VERIFICATION**
+
+- Source 1: Direct site checks (https + http failed, wave 3)
+- Source 2: autotechiq (100+ Google reviews, 4.5+, Good Standing)
+- Source 3: Wheree (8.6 Excellent, Jul 2026, detailed service summary)
+- Source 4: Facebook + Instagram (active, booking CTAs) and Reddit r/Winnipeg recommendations
+- Research Date: 2026-09-26
+- Information Confidence: VERIFIED
+
+---
 ---
 
 # B — GOOD OPPORTUNITY
@@ -653,6 +737,24 @@ Contact details below are business contact details published for business purpos
 
 Classified **B (lower)** — Setmore-only like Paw Hub but smaller proof base (79 reviews, 5.0). Full record abbreviated: 19 Glenmall Place, Auckland 0602; groomers praised for anxious/elderly dogs; opportunity mirrors Paw Hub (services/pricing, gallery, booking integration). Confidence: PARTIALLY VERIFIED (phone/social unconfirmed; verify scale before outreach).
 
+## B16. Nail Care — Plano, TX, USA (added wave 3)
+
+**BUSINESS:** Family-owned health-focused nail salon (no acrylics; nail rejuvenation, ingrown/fungal/thick-nail care, dip/SNS, Gel-X, builder gel, waxing); 4006 W Plano Pkwy Ste 130, Plano TX 75093; site nailcareplanotx.com (Wix one-pager); phone (972) 612-0300; Instagram @nailcareplanotx; Mon–Sat 9–7.
+**DEMAND (Strong):** Yelp 365 reviews at 4.6 with 566 photos; "recognised on Google and Yelp" per site; medical-adjacent specialism = high-trust repeat clientele.
+**WEBSITE (C):** Wix one-pager with services story but **phone-only booking — no online scheduling**, no service/price hub, no new-client intake.
+**OPPORTUNITY:** Salon booking website — online scheduling, service/price/condition hub (ingrown, fungal, diabetic-safe positioning), new-client forms, review showcase.
+**OUTREACH ANGLE:** "365 Yelp reviews at 4.6 — but clients still can't book online. Medical-grade nail care sells on trust and convenience; scheduling plus a conditions hub would fill your chairs."
+**SOURCES:** Official site (fetched); Yelp (365 reviews). Confidence: VERIFIED.
+
+## B17. Sakushi — Sheffield, UK (added wave 3)
+
+**BUSINESS:** Japanese conveyor-belt sushi restaurant + takeaway/delivery (daily 12–10); 27 Campo Ln, Sheffield S1 2EG; "first rotary sushi in Sheffield"; site sakushi.co.uk (custom, with reservation + order-online pages); phone +44 114 273 7399; email info@sakushi.co.uk.
+**DEMAND (Strong):** City-centre destination; 2025 TripAdvisor family reviews; delivery operation; award claims on site (unverified — do not repeat as fact).
+**WEBSITE (C):** Custom site with the right pages, but **many broken images site-wide, repetitive carousel copy, typo URLs (e.g. /sakushi-japanese-tapes)** — and a TripAdvisor reviewer reports **"online booking didn't work"**. Classic "good bones, broken execution."
+**OPPORTUNITY:** Restaurant website rebuild/fix — working reservations, takeaway/delivery ordering UX, menu pages, image assets, local SEO (sushi Sheffield).
+**OUTREACH ANGLE:** "Sheffield's first conveyor-belt sushi spot — but your site has broken images on every page and a reviewer says online booking failed. A rebuild would make the site match the restaurant."
+**SOURCES:** Official site (fetched, broken assets observed); TripAdvisor; Mindtrip; Travelregrets. Confidence: PARTIALLY VERIFIED (Google review count unverified).
+
 ---
 ---
 
@@ -681,6 +783,9 @@ Mobile detailing; Google 4.9 (45+); site with booking wizard + pricing. **Watchl
 
 ## C8. The Hometown Chef Catering Co. — Houston, TX, USA
 Chef-led catering (corporate/weddings); Google 4.6 (~91–102); professional site. **Watchlist because:** site already strong; opportunity limited to quote-flow polish.
+
+## C10. KMC Automotive — Winnipeg, MB, Canada (added wave 3)
+Family-run auto repair (owners Cliff and Faith named by customers); 3451 Pembina Hwy; (204) 269-1839; no website found. **Watchlist because:** demand evidence is Reddit + directory depth only (Google count unverified). Verify reviews, then pitch services + appointment-request site.
 
 ## C9. Ritz Caribbean Foods (RCF) — Toronto, ON, Canada (demoted wave 2)
 Square/Weebly ordering site with gift cards + merch. **Watchlist because:** Google rating soft (~3.5); old Yonge St TripAdvisor listing marked CLOSED (current status needs verification); possible multi-unit structure ("other ritz places"). Do not pitch until status/demand re-verified.

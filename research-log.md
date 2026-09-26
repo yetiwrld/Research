@@ -83,6 +83,11 @@ Counted A+B precisely: USA 8, Canada 4, UK 5, NZ 4 = 21 (incl. West End Groom as
 | Joyful Restaurant (Christchurch) | Excellent existing website (custom bilingual menu, live reviews feed, 1,200+ Google reviews) |
 | GPS Plumbing (Frisco) | Strong site + 1,252 Google reviews (triage reject, not CSV-listed) |
 | All Glass Cleaning (Bristol) | Bark-only, zero verifiable review volume (dropped — too thin) |
+| Beaver Maids (Ottawa) | Excellent existing website (online booking, gift cards, transparent pricing) |
+| Plumbfast (Christchurch) | Excellent existing website (quotes, offers, 313-review live feed) |
+| Molly Maid Ottawa South Central | National franchise (locally owned unit — wrong prospect type) |
+| Clyne & Bennie (Christchurch) | 750 Google reviews + strong multi-trade site (triage reject) |
+| Halswell Butchery / Angus Meats (Christchurch) | Strong e-commerce + delivery sites (triage reject) |
 
 ## Final self-audit (§52)
 

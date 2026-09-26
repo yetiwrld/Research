@@ -126,3 +126,6 @@ All contact details are public business details. Nothing here is invented — ga
 - **Independent Tire & Auto, Charlotte** — 30 years, 200+ reviews, phone-only booking (B)
 - **Teal House, Austin** — cult bakery, 3 outlets, Toast-only ordering (B)
 - **Village Green, Plano** — 40+ years, Lorem ipsum on live FAQ pages, no scheduling (B)
+- **Osborne Auto Centre, Winnipeg** (A, wave 3) — family garage since 1998, 100+ Google reviews, website down (full record A7 in prospect-database.md)
+- **Nail Care, Plano** (B, wave 3) — 365 Yelp reviews, phone-only booking (B16)
+- **Sakushi, Sheffield** (B, wave 3) — first conveyor-belt sushi in Sheffield, broken booking flow (B17)
