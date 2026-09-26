@@ -60,7 +60,18 @@ All contact details are public business details. Nothing here is invented — ga
 **7. Contact:** +64 9-377 1030; Facebook.
 **8. Sources:** TripAdvisor; Yelp; DoorDash; 2026 editorial review; Auckland Convention Bureau.
 
-## 6. Maureen's Caribbean Kitchen — Leeds, UK (B+)
+## 6. Shawarma's King — Ottawa, ON, Canada (A)
+
+**1. Business:** Family-owned shawarma restaurant; Bank Street late-night institution (open to 3–4am weekends), 395 Bank St, Ottawa ON K2P 1Y9.
+**2. Why it is active:** Google 4.1 from ~1,687 ratings; reviews within the last month; weekday lunch rush; late-night destination trade.
+**3. Current digital setup:** No website found; delivery via DoorDash; socials unverified.
+**4. Website gap:** 1,687 ratings of demand with zero owned web presence (quality E); no menu/hours page, no direct pickup ordering, no catering funnel.
+**5. Opportunity:** Restaurant ordering website — menu + late-night hours/location, direct pickup ordering, catering/party trays, local SEO.
+**6. Outreach angle:** "1,687 Google ratings and a Bank Street institution — but no website, so every late-night search sends customers to directories and delivery apps."
+**7. Contact:** +1 613-233-1282; walk-in.
+**8. Sources:** yably (1,687 Google reviews); 613today; RestaurantGuru; Tripadvisor; Wheree. (Promoted from C in wave 4 after Google-review verification.)
+
+## 7. Maureen's Caribbean Kitchen — Leeds, UK (B+)
 
 **1. Business:** Women-owned Caribbean takeaway + café, 105 Roundhay Road, Leeds LS8 5AJ. Maureen catering 30+ years.
 **2. Why it is active:** "Best Caribbean in Leeds" consensus; 150-mile-round-trip regulars; 10+ year customers; TripAdvisor praise.
@@ -82,7 +93,7 @@ All contact details are public business details. Nothing here is invented — ga
 **7. Contact:** (512) 462-1302.
 **8. Sources:** Austin Statesman; Nextdoor; Austin Chronicle; Wheree; Postcard. Confidence partially verified — confirm site status + socials before outreach.
 
-## 8. Simone's Caribbean Restaurant — Toronto (Greektown), Canada (B+)
+## 9. Simone's Caribbean Restaurant — Toronto (Greektown), Canada (B+)
 
 **1. Business:** Caribbean restaurant, 596 Danforth Ave, Toronto (Pape subway). Dine-in + takeout.
 **2. Why it is active:** Restaurantji 283 reviews; TripAdvisor 4.3 (50); glowing Google reviews; live third-party ordering.
@@ -93,7 +104,7 @@ All contact details are public business details. Nothing here is invented — ga
 **7. Contact:** (416) 792-5252.
 **8. Sources:** Official .shop site; Restaurantji; TripAdvisor; order.online; menu-world.
 
-## 9. Diamond Beauty — Surrey (Cloverdale), Canada (B+)
+## 10. Diamond Beauty — Surrey (Cloverdale), Canada (B+)
 
 **1. Business:** Family-run full-service salon, team of 10, 2 awards, 10 years trading. #103 5967 168 St, Surrey BC.
 **2. Why it is active:** Fresha 5.0 from 1,869 reviews; 90% word-of-mouth bookings; commercial salon + retail.
@@ -104,20 +115,13 @@ All contact details are public business details. Nothing here is invented — ga
 **7. Contact:** (778) 865-0158; diamondbeauty.ca@gmail.com; Fresha.
 **8. Sources:** Official site; Fresha; Yelp; Yellow Pages.
 
-## 10. The Indian Streatery — Birmingham, UK (B+)
-
-**1. Business:** Award-winning family-run Indian street-food restaurant; City Centre + Resorts World + Express; ex-street-traders.
-**2. Why it is active:** TripAdvisor 1,150 reviews at 4.6; royalty visit; 3 outlets; grab-and-go lunch trade.
-**3. Current digital setup:** Video-heavy Wix site; bookings via TheFork widgets; menus hard to browse; no takeaway ordering.
-**4. Website gap:** 1,150 reviews, no browsable menu or takeaway ordering; bookings leave for TheFork (quality B).
-**5. Opportunity:** Multi-location restaurant website — menus, takeaway/delivery, private hire, location SEO.
-**6. Outreach angle:** "Three outlets and 1,150 TripAdvisor reviews — but no menu or takeaway ordering on your own site."
-**7. Contact:** 0121 643 0222; website; TheFork.
-**8. Sources:** Official site; TripAdvisor; Grapevine Birmingham.
-
 ---
 
 ### Also strong (full records in prospect-database.md)
+
+- **The Indian Streatery, Birmingham** — 1,150 TripAdvisor reviews, 3 outlets, no browsable menu or takeaway ordering (B; ranked #10 pre-wave-4)
+- **Goat in the Tree, Glasgow** (B, wave 4) — 4.8/~340 reviews, 6-table BYOB, takeaway-template site (B18)
+- **Nubreed mobile grooming, Auckland** (B, wave 4) — Google 5.0, best-groomers listing, contact-form booking (B19)
 
 - **Pizzaland, Bristol** — 4.8/344 reviews + 3k Instagram followers on a one-page template (B)
 - **Nose2tail Doggy Daycare, Wellington** — 4.8 stars on a 2014 site with no booking (B)

@@ -26,6 +26,9 @@
 | 20 (wave 2) — Ken Cooks socials + Chch food | Ken Cooks FB/IG; Christchurch Riccarton restaurants | Ken Cooks: daily FB specials + @ken__cooks confirmed; Dux Dine/Joyful/TJ's candidates |
 | 21 (wave 2) — Ritz/All Glass/Edmonton | Ritz demand check; Bark-only cleaner; Edmonton bakeries | **Ritz demoted to C** (soft ~3.5 rating, old TA listing closed); All Glass too thin (skip); Art of Cake candidate |
 | 22 (wave 2) — Joyful + Art of Cake audits | Fetch both sites | Joyful → rejected (excellent custom site, 1,200+ reviews feed); **Art of Cake → B** (Wix + booking, wedding-funnel upside) |
+| 23 (wave 3) — USA beauty + UK food + Canada auto | Plano nail salons; Sheffield sushi; Winnipeg auto repair | **Nail Care Plano (Yelp 365, phone-only — B)**; **Sakushi Sheffield (broken assets/booking — B)**; **Osborne Auto (site DOWN — A)**; KMC (thin proof — C) |
+| 24 (wave 3) — Niche exhaustion + outreach | Ottawa cleaning; Chch plumbing/butchers; outreach drafts | Beaver Maids/Plumbfast/Clyne & Bennie/Halswell rejected (strong sites); Molly Maid franchise (reject); 11 outreach drafts + follow-up template created |
+| 25 (wave 4) — C-verification pass | Shawarma's King; Goat in the Tree; Nubreed; West End Groom | **Shawarma's King → A** (Google 4.1/~1,687, no site); **Goat in the Tree → B** (4.8/~340, template site); **Nubreed → B** (Google 5.0); West End Groom → C (live site found) |
 
 ## Self-critique loop (per prompt §38)
 
@@ -57,10 +60,10 @@
 
 ## Diversification tracking
 
-**Country (A+B):** USA 6 (Ken Cooks, Flower ATL, Moonlight, Nana Morrison's, Independent Tire, Teal House, El Malo, Village Green = 8 actual) · Canada 4 (Taste Seduction, Ritz, Simone's, Diamond) · UK 6 (Kaycie Kyle, Streatery, Pizzaland, Ice City, Maureen's) + Manzils C · NZ 4 (Paw Hub, Remedy, Nose2tail, West End Groom).
-Counted A+B precisely: USA 8, Canada 4, UK 5, NZ 4 = 21 (incl. West End Groom as B-lower). Slight USA overweight accepted: strongest website-gap evidence clustered there (expired/dead domains).
-**Cities:** Charlotte, Atlanta, Austin, Houston, Plano; Toronto, Surrey, Calgary, Ottawa, Halifax; Birmingham, Bristol, Bradford, Leeds, Glasgow, Manchester; Auckland, Wellington — 16 distinct cities, no single-city dominance.
-**Categories:** soul food, bakery, tacos, tyres/auto, lawn care, braiding, Jamaican/Caribbean (×4), Indian street food, pizza, desserts, Moroccan, beauty salon (×2), nails, dog grooming (×3), dog daycare, café — food-heavy by design (ordering opportunity), services represented across beauty/pet/auto/home.
+**Country (A+B = 26, wave 4):** USA 9 (Ken Cooks, Flower ATL, Moonlight, Nana Morrison's, Independent Tire, Teal House, El Malo, Village Green, Nail Care) · Canada 6 (Taste Seduction, Art of Cake, Simone's, Diamond, Osborne, Shawarma's King) · UK 7 (Kaycie Kyle, Streatery, Pizzaland, Ice City, Maureen's, Sakushi, Goat in the Tree) · NZ 4 (Paw Hub, Remedy, Nose2tail, Nubreed).
+Slight USA overweight accepted: strongest website-gap evidence clustered there (expired/dead domains). UK/Canada rebalanced in waves 3–4 via Sakushi, Goat, Osborne, Shawarma's King.
+**Cities (A+B):** Charlotte, Atlanta, Austin, Plano; Toronto, Edmonton, Surrey, Winnipeg, Ottawa; Bristol, Birmingham, Bradford, Leeds, Sheffield, Glasgow; Auckland, Wellington — 17 distinct metros, no single-city dominance.
+**Categories (A+B):** soul food, bakery, tacos, shawarma, sushi, Jamaican/Caribbean (×4), Indian street food, pizza, desserts, Moroccan, café (×2), tyres/auto (×2), lawn care, braiding, beauty salon (×2), nails, dog grooming (×2), dog daycare — food-heavy by design (ordering opportunity), services represented across beauty/pet/auto/home.
 
 ## Rejection log (condensed; full rows in CSV)
 
@@ -104,7 +107,7 @@ Counted A+B precisely: USA 8, Canada 4, UK 5, NZ 4 = 21 (incl. West End Groom as
 8. Duplicates avoided? Yes — one row per business; Kaycie Kyle ambiguity flagged.
 9. Chains/giants avoided? Yes — rejected with reasons.
 10. No invented facts? Yes — "Not verified" used throughout; counts attributed to aggregators.
-11. Countries diversified? Yes — all four markets, 16 cities.
+11. Countries diversified? Yes — all four markets, 17 A+B metros (wave 4).
 12. Categories diversified? Yes — food + beauty + pet + auto + home + café.
 13. Qualification explained? Yes — per-lead evidence + outreach angle.
-14. Salesperson-usable? Yes — CSV for CRM, full records for prep, top-10 report for prioritisation.
+14. Salesperson-usable? Yes — CSV for CRM, full records for prep, top-10 report for prioritisation, outreach drafts for first touch.
