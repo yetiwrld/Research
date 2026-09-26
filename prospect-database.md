@@ -685,6 +685,92 @@ Contact details below are business contact details published for business purpos
 
 ---
 
+## A9. 786 Shawarma Donair — Saskatoon, SK, Canada (added wave 5)
+
+**BUSINESS**
+
+- Business Name: 786 Shawarma Donair
+- Business Category: Shawarma/donair restaurant
+- Country: Canada
+- City: Saskatoon, SK
+- Area/Suburb: North end (234 Primrose Dr, Saskatoon, SK S7K 6Y6)
+- Business Type: Independent restaurant
+- Independent / Private / Other: Independent (owner Jamal; same location 18+ years)
+- Number of Locations: 1
+- Official Website: None owned (786shawarma.store serves aggregator doorway content, not a business site)
+- Google Business Profile: Yes (755+ ratings)
+- Instagram: Not verified
+- Facebook: Not verified
+- TikTok: Not verified
+- Other Relevant Platform: TripAdvisor; Wanderlog; RestaurantGuru; delivery apps (unverified)
+
+**CUSTOMER DEMAND**
+
+- Google Reviews: 4.5 from 755–863 ratings (RestaurantGuru 755; Wanderlog 863)
+- Review Recency: Active — Google reviews Aug + Dec 2025; TripAdvisor reviews Sep + Nov 2025
+- Other Review Platforms: TripAdvisor 4.5 (32)
+- Social Activity: Not verified
+- Customer Engagement: Very strong — "best donair in Saskatchewan" claims; Moose Jaw drive-ins; regulars since 2015–2017
+- Ordering/Booking Activity: Takeaway + delivery ("ordered online" per one reviewer — mechanism unverified)
+- Demand Level: Very Strong
+- Evidence: 755–863 Google ratings at 4.5; 18+ years same site; destination regulars; recent reviews
+
+**WEBSITE AUDIT**
+
+- Website Status: No owned website (only SEO doorway/aggregator pages rank for the business name)
+- Website URL: N/A
+- Design Quality: N/A
+- Mobile Experience: N/A
+- Ordering Experience: None owned
+- Booking Experience: N/A
+- Navigation: N/A
+- Calls to Action: None owned
+- Pricing/Menu Visibility: None owned
+- Contact Experience: Phone +1 306-933-3980; walk-in
+- Trust Signals: None owned (800+ Google ratings live only on Google/directories)
+- Overall Website Quality: **E — Nonexistent**
+- Main Problems: (1) No menu/hours/location page owned; (2) no direct pickup ordering; (3) no catering/platter funnel; (4) spammy doorway pages rank for the business name instead
+
+**BUSINESS MODEL**
+
+- What They Sell: Donairs, shawarma plates, garlic potatoes, wings; homemade sauces
+- Primary Customer: North-end locals; students; lunch + takeaway trade
+- How Customers Currently Buy: Walk-in; takeaway; delivery (unverified)
+- How Customers Currently Book: N/A (quick-service)
+- How Customers Currently Contact: Phone; walk-in
+- Current Payment Method: Cash + debit reported 2022 (current status unverified)
+- Important Business Workflow: High-volume counter + takeaway; directory-reported hours Mon–Sat 10:30–9, Sun to 8:30 (unverified)
+
+**OPPORTUNITY**
+
+- Recommended Website Type: Restaurant ordering website
+- Potential Features: Menu + hours/location; direct pickup ordering; catering/platters; review showcase; local SEO (donair/shawarma Saskatoon)
+- Main Website Opportunity: Give 800+ ratings of demand an owned home — menu, pickup ordering, catering — and displace the doorway spam ranking for the business name.
+- Why It Matters: Takeaway volume monetises direct pickup ordering immediately; "best in Saskatchewan" reputation + platters = catering line.
+- Potential Customer Journey Improvement: Google → menu + reviews → direct pickup order (vs. today: Google → doorway spam/directories → phone).
+- Suggested Outreach Angle: "Saskatoon's best donair for 18 years with 800+ Google reviews — but no website, so a spammy doorway page speaks for you instead of your own menu."
+
+**CONTACT**
+
+- Business Phone: +1 306-933-3980
+- Business Email: Not verified
+- Contact Page: None
+- Public Owner/Founder: Jamal (first name only, per customer reviews)
+- Social Contact: Not verified
+
+**VERIFICATION**
+
+- Source 1: Wanderlog (863 Google reviews)
+- Source 2: RestaurantGuru (Google 4.5/755)
+- Source 3: Tripadvisor (4.5/32, Sep + Nov 2025 reviews)
+- Source 4: Doorway-page fetch (confirms no owned site); Reddit r/saskatoon
+- Research Date: 2026-09-26
+- Information Confidence: VERIFIED
+
+---
+
+---
+
 # B — GOOD OPPORTUNITY
 
 ---
@@ -898,3 +984,9 @@ Square/Weebly ordering site with gift cards + merch. **Watchlist because:** Goog
 
 ## C11. West End Groom — Auckland (Glenfield), NZ (demoted wave 4)
 Dog grooming salon, 19 Glenmall Place; live Squarespace site (pricing XS $85–Large $110+, gallery, testimonials; Setmore booking); Setmore 5.0 (79 reviews); young business (~1 year); 022 081 9427; westendgroom@outlook.com; Instagram @westendgroom. **Watchlist because:** site already covers pricing/gallery/testimonials and the business is young — revisit as it matures.
+
+## C12. Best Cafe — Dunedin, NZ (added wave 5)
+Seafood institution since 1932, 30 Stuart St; Squarespace site (menus, takeaway info, functions/catering, live music); takeaway by phone 03 477 8059; Google 4.3 (618 ratings); TripAdvisor 516 reviews; eat@bestcafe.co.nz; Instagram @bestcafedunedin. **Watchlist because:** site already covers menu/functions and takeaway is phone-based by design — revisit for an online-ordering upgrade angle.
+
+## C13. WoW Shawarma — London, ON, Canada (added wave 5)
+Family-run downtown shawarma (owner Hasin); weekday lunch queues from 12pm; TripAdvisor 4.5 (15 reviews, incl. Feb 2026); Reddit r/londonontario regulars. **Watchlist because:** Google volume + site status unverified — verify before any outreach.

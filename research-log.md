@@ -29,6 +29,7 @@
 | 23 (wave 3) — USA beauty + UK food + Canada auto | Plano nail salons; Sheffield sushi; Winnipeg auto repair | **Nail Care Plano (Yelp 365, phone-only — B)**; **Sakushi Sheffield (broken assets/booking — B)**; **Osborne Auto (site DOWN — A)**; KMC (thin proof — C) |
 | 24 (wave 3) — Niche exhaustion + outreach | Ottawa cleaning; Chch plumbing/butchers; outreach drafts | Beaver Maids/Plumbfast/Clyne & Bennie/Halswell rejected (strong sites); Molly Maid franchise (reject); 11 outreach drafts + follow-up template created |
 | 25 (wave 4) — C-verification pass | Shawarma's King; Goat in the Tree; Nubreed; West End Groom | **Shawarma's King → A** (Google 4.1/~1,687, no site); **Goat in the Tree → B** (4.8/~340, template site); **Nubreed → B** (Google 5.0); West End Groom → C (live site found) |
+| 26 (wave 5) — NZ + Canada-regional fill | Saskatoon/Dunedin/Chch food + trades; Halifax/Victoria/London ON | **786 Shawarma (Google 755+, no owned site — A)**; Best Cafe (decent site — C); WoW Shawarma (thin — C); ACF/YiLan rejected (strong sites); 2 Doors Down/Messob triage-skipped |
 
 ## Self-critique loop (per prompt §38)
 
@@ -60,10 +61,10 @@
 
 ## Diversification tracking
 
-**Country (A+B = 26, wave 4):** USA 9 (Ken Cooks, Flower ATL, Moonlight, Nana Morrison's, Independent Tire, Teal House, El Malo, Village Green, Nail Care) · Canada 6 (Taste Seduction, Art of Cake, Simone's, Diamond, Osborne, Shawarma's King) · UK 7 (Kaycie Kyle, Streatery, Pizzaland, Ice City, Maureen's, Sakushi, Goat in the Tree) · NZ 4 (Paw Hub, Remedy, Nose2tail, Nubreed).
-Slight USA overweight accepted: strongest website-gap evidence clustered there (expired/dead domains). UK/Canada rebalanced in waves 3–4 via Sakushi, Goat, Osborne, Shawarma's King.
-**Cities (A+B):** Charlotte, Atlanta, Austin, Plano; Toronto, Edmonton, Surrey, Winnipeg, Ottawa; Bristol, Birmingham, Bradford, Leeds, Sheffield, Glasgow; Auckland, Wellington — 17 distinct metros, no single-city dominance.
-**Categories (A+B):** soul food, bakery, tacos, shawarma, sushi, Jamaican/Caribbean (×4), Indian street food, pizza, desserts, Moroccan, café (×2), tyres/auto (×2), lawn care, braiding, beauty salon (×2), nails, dog grooming (×2), dog daycare — food-heavy by design (ordering opportunity), services represented across beauty/pet/auto/home.
+**Country (A+B = 27, wave 5):** USA 9 (Ken Cooks, Flower ATL, Moonlight, Nana Morrison's, Independent Tire, Teal House, El Malo, Village Green, Nail Care) · Canada 7 (Taste Seduction, Art of Cake, Simone's, Diamond, Osborne, Shawarma's King, 786 Shawarma) · UK 7 (Kaycie Kyle, Streatery, Pizzaland, Ice City, Maureen's, Sakushi, Goat in the Tree) · NZ 4 (Paw Hub, Remedy, Nose2tail, Nubreed).
+Slight USA overweight accepted: strongest website-gap evidence clustered there (expired/dead domains). UK/Canada rebalanced in waves 3–5 via Sakushi, Goat, Osborne, Shawarma's King, 786.
+**Cities (A+B):** Charlotte, Atlanta, Austin, Plano; Toronto, Edmonton, Surrey, Winnipeg, Ottawa, Saskatoon; Bristol, Birmingham, Bradford, Leeds, Sheffield, Glasgow; Auckland, Wellington — 18 distinct metros, no single-city dominance.
+**Categories (A+B):** soul food, bakery, tacos, shawarma/donair (×2), sushi, Jamaican/Caribbean (×4), Indian street food, pizza, desserts, Moroccan, café (×2), tyres/auto (×2), lawn care, braiding, beauty salon (×2), nails, dog grooming (×2), dog daycare — food-heavy by design (ordering opportunity), services represented across beauty/pet/auto/home.
 
 ## Rejection log (condensed; full rows in CSV)
 
@@ -94,6 +95,10 @@ Slight USA overweight accepted: strongest website-gap evidence clustered there (
 | Molly Maid Ottawa South Central | National franchise (locally owned unit — wrong prospect type) |
 | Clyne & Bennie (Christchurch) | 750 Google reviews + strong multi-trade site (triage reject) |
 | Halswell Butchery / Angus Meats (Christchurch) | Strong e-commerce + delivery sites (triage reject) |
+| ACF Plumbing Solutions (Christchurch) | Excellent existing website (pro 2026 build, booking form, testimonials) |
+| YiLan Chinese Halal (Halifax) | Excellent existing website (bilingual menu + online ordering) |
+| 2 Doors Down (Halifax/Dartmouth) | Functional reservations site + OpenTable (triage reject, not CSV-listed) |
+| Messob Ethiopian (Victoria) | Existing menu site + thin review proof (dropped — too thin) |
 
 ## Final self-audit (§52)
 
@@ -107,7 +112,7 @@ Slight USA overweight accepted: strongest website-gap evidence clustered there (
 8. Duplicates avoided? Yes — one row per business; Kaycie Kyle ambiguity flagged.
 9. Chains/giants avoided? Yes — rejected with reasons.
 10. No invented facts? Yes — "Not verified" used throughout; counts attributed to aggregators.
-11. Countries diversified? Yes — all four markets, 17 A+B metros (wave 4).
+11. Countries diversified? Yes — all four markets, 18 A+B metros (wave 5).
 12. Categories diversified? Yes — food + beauty + pet + auto + home + café.
 13. Qualification explained? Yes — per-lead evidence + outreach angle.
 14. Salesperson-usable? Yes — CSV for CRM, full records for prep, top-10 report for prioritisation, outreach drafts for first touch.

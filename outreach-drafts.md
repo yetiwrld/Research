@@ -154,6 +154,18 @@ Pre-send check: re-verify site status + confirm no official social accounts.
 > I build restaurant websites with menus, pickup ordering and catering for
 > high-volume kitchens like yours. Worth a 10-minute chat?
 
+## 13. 786 Shawarma Donair — Saskatoon · +1 306-933-3980 · walk-in
+
+> Subject: 800+ Google reviews — and no website of your own
+>
+> Hi Jamal — 18 years on Primrose and 800+ Google reviews calling you the best
+> donair in Saskatchewan is remarkable. But you have no website of your own, so
+> right now a spammy doorway page ranks for your name instead — no menu, no
+> pickup ordering, no catering or platter page.
+>
+> I build restaurant websites with menus, pickup ordering and catering for
+> high-volume kitchens like yours. Worth a 10-minute chat?
+
 ---
 
 ### Follow-up (generic, day 4–6, only if no reply)

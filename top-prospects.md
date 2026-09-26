@@ -133,3 +133,4 @@ All contact details are public business details. Nothing here is invented — ga
 - **Osborne Auto Centre, Winnipeg** (A, wave 3) — family garage since 1998, 100+ Google reviews, website down (full record A7 in prospect-database.md)
 - **Nail Care, Plano** (B, wave 3) — 365 Yelp reviews, phone-only booking (B16)
 - **Sakushi, Sheffield** (B, wave 3) — first conveyor-belt sushi in Sheffield, broken booking flow (B17)
+- **786 Shawarma Donair, Saskatoon** (A, wave 5) — Google 4.5/755+, 18 years, no owned site (full record A9 in prospect-database.md)
