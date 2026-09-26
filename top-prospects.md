@@ -71,7 +71,7 @@ All contact details are public business details. Nothing here is invented — ga
 **7. Contact:** 0113 240 6006; info@maureenscaribbeantakeaway.co.uk.
 **8. Sources:** Official site; TripAdvisor; Discover Leeds; goto-where.
 
-## 7. Moonlight Bakery — Austin, TX, USA (A−)
+## 8. Moonlight Bakery — Austin, TX, USA (A−)
 
 **1. Business:** Independent bakery (kolaches/pastries/custom cakes), 2300 S Lamar Blvd Ste 102, Austin TX 78704.
 **2. Why it is active:** Statesman 2026 "best bakeries" feature; recent Nextdoor praise; 2026 directory updates; long-standing local-gem status.

@@ -51,6 +51,9 @@
 - All review counts attributed to their aggregator (RestaurantGuru, Fresha, etc.), never presented as first-party Google Console data.
 - **Wave-2 correction (Paw Hub):** wave 1 recorded "no website found" — a targeted re-check found pawhub.co.nz (thin Wix). Lesson applied: "no website" claims now require a same-day direct domain + Yelp/GBP cross-check before finalising. All other E-grade leads (Flower ATL, Remedy, Moonlight-down, Kaycie Kyle-down) were re-checked against this rule and stand.
 - **Wave-2 downgrade (Ritz):** soft Google rating (~3.5) + closed old TA listing surfaced on deeper review-platform checks — demoted B→C rather than pitched. Same deeper check upgraded Taste Seduction (B, now VERIFIED/Very Strong).
+- **Wave-4 promotions:** Shawarma's King C→A (Google 4.1/~1,687 found via aggregator triangulation — original C grade used only TripAdvisor/Wheree); Goat in the Tree C→B (direct site fetch exposed template + complaint-filled review feed; Google 4.8/~340 verified); Nubreed C→B (Google 5.0 via MoneyHub listing). Lesson applied: C grades resting on thin aggregators get one re-verification pass before close-out.
+- **Wave-4 correction (West End Groom):** recorded B without finding its live Squarespace site — direct fetch found pricing/gallery/testimonials + young (~1 yr) business → demoted B→C. Reinforces the wave-2 Paw Hub rule: grade only after a direct site audit.
+- **Wave-4 process lesson (CSV safety):** a Python script opened the CSV with `'w'` then crashed mid-write, truncating 23 rows. Recovered losslessly from git and re-applied. Rule adopted: CSV rewrites go to a temp file + row-count check, then move into place. Never `open(..., 'w')` on the live database before the transform is proven.
 
 ## Diversification tracking
 

@@ -599,6 +599,90 @@ Contact details below are business contact details published for business purpos
 - Information Confidence: VERIFIED
 
 ---
+## A8. Shawarma's King — Ottawa, ON, Canada (promoted wave 4)
+
+**BUSINESS**
+
+- Business Name: Shawarma's King
+- Business Category: Shawarma / Middle Eastern restaurant
+- Country: Canada
+- City: Ottawa, ON
+- Area/Suburb: Bank Street (395 Bank St, Ottawa, ON K2P 1Y9)
+- Business Type: Independent restaurant
+- Independent / Private / Other: Independent (family-owned)
+- Number of Locations: 1
+- Official Website: None found
+- Google Business Profile: Yes (implied by ~1,687 Google ratings)
+- Instagram: Not verified
+- Facebook: Not verified
+- TikTok: Not verified
+- Other Relevant Platform: DoorDash; RestaurantGuru; Tripadvisor; Wheree
+
+**CUSTOMER DEMAND**
+
+- Google Reviews: ~1,687 ratings at 4.1 (via yably; 613today)
+- Review Recency: Active — RestaurantGuru reviews 27 days ago + a month ago; weekday lunch rush reports
+- Other Review Platforms: Tripadvisor; Wheree; RestaurantGuru
+- Social Activity: Not verified
+- Customer Engagement: Strong — Bank Street late-night institution (open to 3–4am weekends); lunch rush
+- Ordering/Booking Activity: Delivery via DoorDash; no direct ordering found
+- Demand Level: Very Strong
+- Evidence: ~1,687 Google ratings; recent reviews; late-night destination status; lunch-rush trade
+
+**WEBSITE AUDIT**
+
+- Website Status: No website found
+- Website URL: N/A
+- Design Quality: N/A
+- Mobile Experience: N/A
+- Ordering Experience: None owned (delivery only via aggregators)
+- Booking Experience: N/A
+- Navigation: N/A
+- Calls to Action: None owned
+- Pricing/Menu Visibility: None owned (menu only on aggregator/directory pages)
+- Contact Experience: Phone +1 613-233-1282; walk-in
+- Trust Signals: None owned (~1,687 Google ratings live only on Google/directories)
+- Overall Website Quality: **E — Nonexistent**
+- Main Problems: (1) No menu/hours/location page owned; (2) no direct pickup ordering — delivery commissionable via aggregators; (3) no catering/party-tray funnel for a high-volume shawarma kitchen; (4) late-night search demand lands entirely on directories
+
+**BUSINESS MODEL**
+
+- What They Sell: Shawarma wraps/plates; late-night food
+- Primary Customer: Bank Street foot traffic; late-night crowd; weekday lunch workers
+- How Customers Currently Buy: Walk-in; delivery apps
+- How Customers Currently Book: N/A (quick-service)
+- How Customers Currently Contact: Phone; walk-in
+- Current Payment Method: In store (not verified)
+- Important Business Workflow: High-volume counter trade; late-night hours to 3–4am weekends; lunch rush
+
+**OPPORTUNITY**
+
+- Recommended Website Type: Restaurant ordering website
+- Potential Features: Menu + late-night hours/location; direct pickup ordering; catering/party trays; review showcase; local SEO (shawarma Ottawa / Bank Street)
+- Main Website Opportunity: Give ~1,687 ratings of demand an owned home — menu, pickup ordering, and catering — instead of conceding every search to directories and delivery apps.
+- Why It Matters: Late-night + lunch-rush volume monetises direct pickup ordering immediately; catering trays are a natural second revenue line for shawarma kitchens.
+- Potential Customer Journey Improvement: Google → menu + reviews → direct pickup order (vs. today: Google → directory → delivery-app commission).
+- Suggested Outreach Angle: "1,687 Google ratings and a Bank Street institution — but no website, so every late-night search sends customers to directories and delivery apps instead of your own counter."
+
+**CONTACT**
+
+- Business Phone: +1 613-233-1282
+- Business Email: Not verified
+- Contact Page: None
+- Public Owner/Founder: Not verified
+- Social Contact: Not verified
+
+**VERIFICATION**
+
+- Source 1: yably (~1,687 Google reviews aggregation)
+- Source 2: 613today city guide
+- Source 3: RestaurantGuru (reviews 27 days + a month ago)
+- Source 4: Tripadvisor; Wheree
+- Research Date: 2026-09-26
+- Information Confidence: VERIFIED
+
+---
+
 ---
 
 # B — GOOD OPPORTUNITY
@@ -755,7 +839,26 @@ Classified **B (lower)** — Setmore-only like Paw Hub but smaller proof base (7
 **OUTREACH ANGLE:** "Sheffield's first conveyor-belt sushi spot — but your site has broken images on every page and a reviewer says online booking failed. A rebuild would make the site match the restaurant."
 **SOURCES:** Official site (fetched, broken assets observed); TripAdvisor; Mindtrip; Travelregrets. Confidence: PARTIALLY VERIFIED (Google review count unverified).
 
+## B18. Goat in the Tree — Glasgow (West End), UK (promoted wave 4)
+
+**BUSINESS:** Family-run Moroccan BYOB restaurant; tiny 6-table venue; Glasgow West End (exact address not verified); site goatinthetreeglasgow.co.uk; phone +44 141 286 5858; private hire offered.
+**DEMAND (Strong):** Google 4.8 from ~340 ratings (via RestaurantGuru); TripAdvisor 4.7 (39); #178 of 1,887 Glasgow venues (intravel); fully-booked reports.
+**WEBSITE (C):** Off-the-shelf Fusion takeaway template — repetitive 10%-off sliders, stock feel; table-booking widget present; on-site review feed surfaces delivery complaints.
+**OPPORTUNITY:** Proper restaurant website — reservations-first design for a 6-table venue, menu storytelling, private-hire/BYOB info, curated review showcase, local SEO.
+**OUTREACH ANGLE:** "4.8 stars across ~340 Google reviews — but your site is a takeaway template whose review feed shows delivery complaints. A 6-table BYOB gem deserves reservations-first design."
+**SOURCES:** Official site (fetched); RestaurantGuru; Tripadvisor; intravel; gastroranking. Confidence: VERIFIED.
+
+## B19. Nubreed (Brandon) — Auckland (mobile), NZ (promoted wave 4)
+
+**BUSINESS:** Mobile dog grooming (nails/teeth/ears) since 2019; solo operator Brandon; Auckland-wide mobile; site nubreed.co.nz (WordPress, contact-form booking); phone 021 023 01797; Facebook page (Nubreed Mobile Dog Grooming).
+**DEMAND (Strong):** Google 5.0 (MoneyHub best-groomers listing); strong on-site testimonials; repeat bookings; Neighbourly presence.
+**WEBSITE (C):** Contact-form booking only — no online scheduling, no service-area/pricing hub, no review showcase.
+**OPPORTUNITY:** Grooming booking website — online scheduling, service-area map, pricing, review showcase, reminders.
+**OUTREACH ANGLE:** "A 5.0 Google rating and a best-groomers listing — but clients book through a contact form. Online scheduling would fill a mobile groomer's route without the phone tag."
+**SOURCES:** Official site; MoneyHub best-groomers list; Neighbourly. Confidence: VERIFIED.
+
 ---
+
 ---
 
 # C — WATCHLIST (summaries; full rows in CSV)
@@ -772,8 +875,9 @@ Independent 7-location group, 25+ barbers; Fresha Fairview 5.0/1,488 votes; func
 ## C4. Shawarma's King — Ottawa, ON, Canada
 Family-owned shawarma, 395 Bank St; no website found; DoorDash presence. **Watchlist because:** demand evidence thin (TA 3.5/57; Wheree 4.1/10). Re-verify Google reviews before outreach.
 
-## C5. Nubreed (Brandon) — Auckland (mobile), NZ
-Mobile grooming (nails/teeth/ears) since 2019; WordPress site with contact-form booking; strong on-site testimonials. **Watchlist because:** solo operator; Google review count unverified; smaller project size.
+## C5. Nubreed (Brandon) — PROMOTED to B (wave 4)
+
+See **B19**. Google 5.0 + MoneyHub best-groomers verification justified promotion.
 
 ## C6. Just Cakes — Auckland, NZ
 Custom/eggless/GF cakes; request-an-order site with testimonials. **Watchlist because:** independent review volume unverified; site already functional.

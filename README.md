@@ -18,18 +18,18 @@
 
 | Status | Count | Meaning |
 |---|---|---|
-| A — High Opportunity | 7 | Strong activity + clear website gap + strong verification |
-| B — Good Opportunity | 17 | Good business + meaningful opportunity, some evidence weaker |
-| C — Watchlist | 10 | Potential prospect, insufficient evidence or weaker fit |
+| A — High Opportunity | 8 | Strong activity + clear website gap + strong verification |
+| B — Good Opportunity | 18 | Good business + meaningful opportunity, some evidence weaker |
+| C — Watchlist | 8 | Potential prospect, insufficient evidence or weaker fit |
 | Rejected | 18 | Fails core requirements (reason recorded) |
 
-## Country balance (A + B = 24)
+## Country balance (A + B = 26)
 
-USA: 9 · Canada: 5 · UK: 6 · New Zealand: 4 (18 distinct cities)
+USA: 9 · Canada: 6 · UK: 7 · New Zealand: 4 (17 distinct A+B cities)
 
-## Category spread (A + B = 24)
+## Category spread (A + B = 26)
 
-Food & café (14) · Beauty/personal care (4) · Pet services (3) · Automotive (2) · Home services (1)
+Food & café (16) · Beauty/personal care (4) · Pet services (3) · Automotive (2) · Home services (1)
 
 ## Operating principles applied
 

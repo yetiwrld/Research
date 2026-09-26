@@ -141,6 +141,19 @@ Pre-send check: re-verify site status + confirm no official social accounts.
 > I build garage websites with service menus and appointment requests. Worth a
 > quick chat?
 
+## 12. Shawarma's King — Ottawa · +1 613-233-1282 · walk-in
+
+> Subject: 1,687 Google ratings — no website
+>
+> Hi — 1,687 Google ratings on Bank Street makes you an Ottawa institution,
+> especially with the late-night trade. But there's no website at all, so
+> every search sends customers to directories and delivery apps instead of
+> your own counter — no menu page, no direct pickup orders, no catering
+> enquiries.
+>
+> I build restaurant websites with menus, pickup ordering and catering for
+> high-volume kitchens like yours. Worth a 10-minute chat?
+
 ---
 
 ### Follow-up (generic, day 4–6, only if no reply)
